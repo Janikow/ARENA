@@ -1,0 +1,16 @@
+{
+  "name": "arena",
+  "version": "1.0.0",
+  "description": "ARENA - a fast-movement multiplayer arena shooter for the browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "license": "MIT"
+}
